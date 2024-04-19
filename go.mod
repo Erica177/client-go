@@ -53,4 +53,4 @@ require (
 	sigs.k8s.io/yaml v1.3.0 // indirect
 )
 
-replace istio.io/api => github.com/Erica177/api v0.0.0-20240419032601-5c73984c0bfc
+replace istio.io/api => github.com/Erica177/api v0.0.0-20240419045854-a2de12e022d8
